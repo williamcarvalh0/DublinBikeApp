@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Stations Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="MAPLOGGING">MAPLOGGING</string>
+    <string name="DEBUG_MAINACTIVITY">MAPACTIVITY</string>
+    <string name="AIzaSyBUccweBOT2M2STfKsXtm59_4rWsE4wVtg">AIzaSyBUccweBOT2M2STfKsXtm59_4rWsE4wVtg</string>
+    <string name="api"> </string>
+    <string name="JCDecaux_API_Key">163597812dfb8e11bcdaa6297a730b46529a5bcd</string>
+    <string name="welcome_to_dublin_bike">Welcome to Dublin Bike</string>
+    <string name="bike_stations_map">Bike Stations Map</string>
+    <string name="DUBLIN_BIKE_API_URL" />
+    <string name="DUBLIN_BIKE_API_KEY" />
+    <string name="MAKERCLICKED" />
+    <string name="textviewLatitude">Lat</string>
+    <string name="textviewLongitude">Long</string>
+    <string name="textviewId">Station</string>
+    <string name="textviewAddress">Address</string>
+    <string name="save_preferences">Save</string>
+
+</resources>
